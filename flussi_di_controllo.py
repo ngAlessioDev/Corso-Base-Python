@@ -50,7 +50,7 @@ else:
     giudizio = "Insufficiente"
 
 print(f"Esito valutazione: {giudizio}")
-
+#La f davanti alla stringa indica una f-string, che permette di inserire direttamente variabili tra { }
 
 # --- 4. IF ANNIDATI (NESTED IF) ---
 
